@@ -1,7 +1,7 @@
 **Image Gallery**
 This project is a simple, responsive image gallery created using HTML, CSS, and Flexbox. The gallery showcases a collection of images arranged in a clean, grid-like layout. Flexbox is used to ensure that the images are evenly spaced and adapt to different screen sizes, making the gallery fully responsive.
 
-link:[]
+link:[ https://vinoramar.github.io/Image_gallery/ ]
 
 Features:**
 Responsive Design: The layout adjusts automatically to fit different screen sizes, providing an optimal viewing experience across devices (desktop, tablet, mobile).
